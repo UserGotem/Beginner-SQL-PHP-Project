@@ -1,3 +1,3 @@
 <footer>
-		Copyright 2024 Oleg M. <?php date("Y")?>
+		Copyright 2024 UserGotem <?php date("Y")?>
 	</footer>
